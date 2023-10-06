@@ -80,6 +80,8 @@ html{
 .single img {
     width: 25%;
     height: 25%;
+    object-fit: cover;
+    border-radius: 25%;
 }
 
 .detail-page {

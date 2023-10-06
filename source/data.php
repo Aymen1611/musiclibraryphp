@@ -2,6 +2,7 @@
 // Gegevens van muziek singles
 $musicSingles = [
     [
+        'id'=>1,
         "title" => "Lijpe - Mansory ft. Frenna (prod. Trobi & Vanno)",
         "artist" => "Lijpe",
         "leeftijd" => "33",
@@ -10,6 +11,7 @@ $musicSingles = [
         "link" => "youtube.com"
     ],
     [
+        'id'=>2,
         "title" => "BOEF Spitsessie CCCXX Zonamo Underground",
         "artist" => "BOEF",
         "leeftijd" => "26",
@@ -17,6 +19,7 @@ $musicSingles = [
         "image" => "/img/artworks-000118349851-5rgxdm-t500x500.jpg"
     ],
     [
+        'id'=>3,
         "title" => "Don Toliver - No Idea [Official Music Video]",
         "artist" => "Don Toliver",
         "leeftijd" => "36",
@@ -24,6 +27,7 @@ $musicSingles = [
         "image" => "/img/2a4c4b48762d3237f65df17e3ab35a89.1000x1000x1.png"
     ],
     [
+        'id'=>4,
         "title" => "XXXTENTACION - Look At Me! (Audio)",
         "artist" => "XXXTENTACION",
         "leeftijd" => "22",
